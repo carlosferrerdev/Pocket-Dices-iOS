@@ -1,6 +1,6 @@
 Pocket Dices iOS
 
-Aplicativo nativo desenvolvido em Swift para fins de estudo.
+Aplicativo nativo desenvolvido em Swift.
 O aplicativo se resume a uma tela com um botão onde, quando pressionado, os dois dados disponíveis são rolados gerando resultados aleatórios.
 
 <p align="center">
